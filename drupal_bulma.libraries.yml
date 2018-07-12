@@ -1,0 +1,12 @@
+header_js:
+  header: true
+  css:
+    base:
+      assets/css/styles.css: {}
+  dependencies:
+    - core/jquery
+global:
+  js:
+    assets/js/script.js: {}
+    assets/js/paragraphs.js: {}
+
